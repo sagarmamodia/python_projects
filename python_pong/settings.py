@@ -1,0 +1,20 @@
+from pygame.math import Vector2 as vec2
+
+SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 900
+
+WHITE = (255, 255, 255)
+BG_COLOR = (15, 24, 36)
+BAT_COLOR = (94, 163, 255)
+RED = (255, 0, 0)
+
+BALL_VELOCITY = (8, -5)
+BALL_SIZE = 10
+BALL_POS_INITIAL = (400, 200)
+
+
+BAT_WIDTH = 20
+BAT_HEIGHT = 100
+BAT_SPEED = 10
+
+HEALTH = 1
